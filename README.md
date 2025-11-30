@@ -4,6 +4,8 @@ Newznab: Back from the dead — the ultimate revival of a Newznab-Plus indexer i
 
 C O M I N G   S O O N ! ! !
 
+If you are interested, drop me an email:  swisher@tuta.com
+
 If this saved your indexer too — buy me a coffee! ☕
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/backfromthedead)
