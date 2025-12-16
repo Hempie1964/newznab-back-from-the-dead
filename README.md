@@ -5,6 +5,7 @@ Newznab: Back from the dead — the ultimate revival of a Newznab-Plus indexer i
 C O M I N G   S O O N ! ! !
 
 If you are interested, drop me an email:  swisher@tuta.com
+Checkout this little demo video:  https://youtu.be/2TbRdMKQiyw
 
 If this saved your indexer too — buy me a coffee! ☕
 
